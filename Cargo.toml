@@ -2,6 +2,11 @@
 name = "cyberterm-img"
 version = "0.1.0"
 edition = "2021"
+author = ["Liangdi <wu@liangdi.me>"]
+description = "Image processing tool"
+license = "MIT"
+homepage = "https://cyberterm.org"
+repository = "https://github.com/cyberterm-org/img"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
