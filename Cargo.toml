@@ -13,3 +13,5 @@ repository = "https://github.com/cyberterm-org/img"
 [dependencies]
 base64 = "0.21.0"
 clap = "4.2.1"
+mime = "0.3.17"
+mime_guess = "2.0.4"
